@@ -8,4 +8,4 @@ To find
 4. Perform analisis on closing price on yearly, quaterly and monthly basis
 
 **Download dataset here**
-[Dataset:]([https://drive.google.com/drive/folders/1ptEHSSmfQibq6bIa2sth7r-9P2X_xJEg?usp=sharing](https://drive.google.com/file/d/1NywD0QajF8bHBe_3IRep8gjGqlsj_-Dq/view?usp=sharing))
+[Dataset:] (https://drive.google.com/file/d/1NywD0QajF8bHBe_3IRep8gjGqlsj_-Dq/view?usp=sharing)
