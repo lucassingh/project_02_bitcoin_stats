@@ -2,7 +2,7 @@
 
 To find
 
-1.What was the change in price of the stock overtime?
+1. What was the change in price of the stock overtime?
 2. Analysing open, high, low, close value of bitcoin with candle sticks
 3. Analysing closing price
 4. Perform analisis on closing price on yearly, quaterly and monthly basis
